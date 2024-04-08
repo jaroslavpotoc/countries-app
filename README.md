@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# countries-app 🌍
+
+# Countries App 🌍
 Laravel project for Holokolo
 =======
 
