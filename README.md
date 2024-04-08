@@ -1,8 +1,7 @@
 <<<<<<< HEAD
-# countries-app
+# countries-app 🌍
 Laravel project for Holokolo
 =======
-# Countries App 🌍
 
 This project is a web application focused on displaying information about various countries.
 
